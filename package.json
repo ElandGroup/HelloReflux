@@ -1,0 +1,32 @@
+{
+  "name": "helloreflux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile-react.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElandGroup/HelloReflux.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElandGroup/HelloReflux/issues"
+  },
+  "homepage": "https://github.com/ElandGroup/HelloReflux#readme",
+  "dependencies": {
+    "browser-sync": "^2.13.0",
+    "cssnano": "^3.7.3",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.4",
+    "gulp-notify": "^2.2.0",
+    "gulp-react": "^3.1.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "reflux": "^0.4.1",
+    "zepto": "^1.2.0"
+  }
+}
